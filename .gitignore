@@ -1,7 +1,13 @@
 venv/
 __pycache__/
 *.pyc
-.env
-database/*.db
-snapshots/
+
 logs/
+
+snapshots/
+
+uploads/
+
+reports/
+
+data/*.json
