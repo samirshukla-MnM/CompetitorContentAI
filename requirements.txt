@@ -1,11 +1,10 @@
 streamlit
 pandas
 openpyxl
-sqlalchemy
+beautifulsoup4
+requests
+playwright
+lxml
+deepdiff
 python-dotenv
 loguru
-playwright
-beautifulsoup4
-lxml
-requests
-deepdiff
